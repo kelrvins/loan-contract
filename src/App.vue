@@ -36,6 +36,7 @@
         class="input-text"
       > 元（大写 <input
         type="text"
+        placeholder="根据数字计算，太长就..."
         v-model="moneyCH"
         style="width: 220px; text-align: center;"
         class="input-text"
